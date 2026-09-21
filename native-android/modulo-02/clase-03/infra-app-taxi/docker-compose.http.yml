@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
     http:
         image: ${BACKEND_IMAGE}:${BACKEND_TAG}

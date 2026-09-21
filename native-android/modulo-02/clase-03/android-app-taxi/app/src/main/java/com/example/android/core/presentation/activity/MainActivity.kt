@@ -39,7 +39,6 @@ class MainActivity : ComponentActivity() {
                 darkScrim  = android.graphics.Color.TRANSPARENT
             )
         )
-        window.isStatusBarContrastEnforced = false
         window.isNavigationBarContrastEnforced = false
 
         setContent { AppRoot() }

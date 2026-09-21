@@ -498,3 +498,9 @@ fun DriverScreen(vm: DriverViewModel = hiltViewModel()) {
 - Agregar **qualifiers** para `PublicApi` y `InternalApi`.
 - Inyectar un `TokenProvider` real con DataStore.
 - Pagination/Retry: extender el Repo (la UI no cambia).
+
+---
+
+## Quiz
+
+Evalúa lo aprendido en esta sesión (5 preguntas): [Quiz — Hilt para Inyección de Dependencias](https://forms.gle/mqVkEpfBWneYhEj96)
